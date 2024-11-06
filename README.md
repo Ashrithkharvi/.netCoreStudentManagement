@@ -1,0 +1,2 @@
+# .netCoreStudentManagement
+.netcore project
